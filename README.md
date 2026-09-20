@@ -11,5 +11,4 @@
 - Becoming a red teamer
 
 **Current status**: 
->*It's a dangerous world. I'll try to create some helpful things to ensure your safety.*
-*However, it might take much time.*
+>*Somethings are twisted but I feel everything is moving as it should.*
